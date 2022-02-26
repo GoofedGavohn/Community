@@ -1,4 +1,3 @@
 # Community
 
-[![Coverage Status](https://coveralls.io/repos/github/GoofedGavohn/Community/badge.svg?branch=main)](https://coveralls.io/github/GoofedGavohn/Community?branch=main)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepositoryName)
+https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Online&url=https%3A%2F%2Fgithub.com%2FGoofedGavohn%2FCommunity
